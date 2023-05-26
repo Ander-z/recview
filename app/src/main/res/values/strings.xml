@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">recview</string>
+
+
+
+    <string-array name="count_name">
+
+        <item>India</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Morocco</item>
+        <item>South Korea</item>
+        <item>United Kingdom</item>
+        <item>United States of America</item>
+
+    </string-array>
+
+    <string-array name="count_details">
+
+        <item>India, country that occupies the greater part of South Asia. Its capital is New Delhi, built in the 20th century just south of the historic hub of Old Delhi to serve as India’s administrative centre. Its government is a constitutional republic that represents a highly diverse population consisting of thousands of ethnic groups and likely hundreds of languages. With roughly one-sixth of the world’s total population, India is the second most populous country, after China.
+
+It is known from archaeological evidence that a highly sophisticated urbanized culture—the Indus civilization—dominated the northwestern part of the subcontinent from about 2600 to 2000 bce. From that period on, India functioned as a virtually self-contained political and cultural arena, which gave rise to a distinctive tradition that was associated primarily with Hinduism, the roots of which can largely be traced to the Indus civilization. Other religions, notably Buddhism and Jainism, originated in India—though their presence there is now quite small—and throughout the centuries residents of the subcontinent developed a rich intellectual life in such fields as mathematics, astronomy, architecture, literature, music, and the fine arts.
+Taj Mahal
+Taj Mahal
+Jaisalmer, Rajasthan, India: fort
+Jaisalmer, Rajasthan, India: fort
+Throughout its history, India was intermittently disturbed by incursions from beyond its northern mountain wall. Especially important was the coming of Islam, brought from the northwest by Arab, Turkish, Persian, and other raiders beginning early in the 8th century ce. Eventually, some of those raiders stayed; by the 13th century much of the subcontinent was under Muslim rule, and the number of Muslims steadily increased. Only after the arrival of the Portuguese navigator Vasco da Gama in 1498 and the subsequent establishment of European maritime supremacy in the region did India become exposed to major external influences arriving by sea, a process that culminated in the decline of the ruling Muslim elite and absorption of the subcontinent within the British Empire.
+        </item>
+        <item>Israel, Arabic Isrāʾīl, officially State of Israel or Hebrew Medinat Yisraʾel, country in the Middle East, located at the eastern end of the Mediterranean Sea. It is bounded to the north by Lebanon, to the northeast by Syria, to the east and southeast by Jordan, to the southwest by Egypt, and to the west by the Mediterranean Sea. Jerusalem is the seat of government and the proclaimed capital, although the latter status has not received wide international recognition.
+Israel
+
+        </item>
+        <item>Italy, country of south-central Europe, occupying a peninsula that juts deep into the Mediterranean Sea. Italy comprises some of the most varied and scenic landscapes on Earth and is often described as a country shaped like a boot. At its broad top stand the Alps, which are among the world’s most rugged mountains. Italy’s highest points are along Monte Rosa, which peaks in Switzerland, and along Mont Blanc, which peaks in France. The western Alps overlook a landscape of Alpine lakes and glacier-carved valleys that stretch down to the Po River and the Piedmont. Tuscany, to the south of the cisalpine region, is perhaps the country’s best-known region. From the central Alps, running down the length of the country, radiates the tall Apennine Range, which widens near Rome to cover nearly the entire width of the Italian peninsula. South of Rome the Apennines narrow and are flanked by two wide coastal plains, one facing the Tyrrhenian Sea and the other the Adriatic Sea. Much of the lower Apennine chain is near-wilderness, hosting a wide range of species rarely seen elsewhere in western Europe, such as wild boars, wolves, asps, and bears. The southern Apennines are also tectonically unstable, with several active volcanoes, including Vesuvius, which from time to time belches ash and steam into the air above Naples and its island-strewn bay. At the bottom of the country, in the Mediterranean Sea, lie the islands of Sicily and Sardinia.
+        </item>
+        <item>Jamaica is in North America</item>
+        <item>Japan is in Asia</item>
+        <item>Morocco is in Africa</item>
+        <item>South Korea is in Asia</item>
+        <item>United Kingdom is in Europe</item>
+        <item>United States of America is in North America</item>
+
+    </string-array>
 </resources>
