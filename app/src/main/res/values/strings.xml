@@ -2,7 +2,6 @@
     <string name="app_name">recview</string>
 
 
-
     <string-array name="count_name">
 
         <item>India</item>
@@ -19,27 +18,98 @@
 
     <string-array name="count_details">
 
-        <item>India, country that occupies the greater part of South Asia. Its capital is New Delhi, built in the 20th century just south of the historic hub of Old Delhi to serve as India’s administrative centre. Its government is a constitutional republic that represents a highly diverse population consisting of thousands of ethnic groups and likely hundreds of languages. With roughly one-sixth of the world’s total population, India is the second most populous country, after China.
+        <item>
+            India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area and the most populous country in the world.
+        </item>
+        <item>
+            Israel, a Middle Eastern country on the Mediterranean Sea, is regarded by Jews, Christians and Muslims as the biblical Holy Land.
+        </item>
+        <item>
+            Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine.
+        </item>
+        <item>
+            Jamaica, a Caribbean island nation, has a lush topography of mountains, rainforests and reef-lined beaches.
+        </item>
+        <item>
+            Japan is an island country in East Asia. It is situated in the northwest Pacific Ocean.
+        </item>
+        <item>
+            Morocco, a North African country bordering the Atlantic Ocean and Mediterranean Sea, is distinguished by its Berber, Arabian and European cultural influences.
+        </item>
+        <item>
+            South Korea, an East Asian nation on the southern half of the Korean Peninsula, shares one of the world’s most heavily militarized borders with North Korea.
+        </item>
+        <item>
+            The United Kingdom, made up of England, Scotland, Wales and Northern Ireland, is an island nation in northwestern Europe.
+        </item>
+        <item>
+            The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean.
+        </item>
 
-It is known from archaeological evidence that a highly sophisticated urbanized culture—the Indus civilization—dominated the northwestern part of the subcontinent from about 2600 to 2000 bce. From that period on, India functioned as a virtually self-contained political and cultural arena, which gave rise to a distinctive tradition that was associated primarily with Hinduism, the roots of which can largely be traced to the Indus civilization. Other religions, notably Buddhism and Jainism, originated in India—though their presence there is now quite small—and throughout the centuries residents of the subcontinent developed a rich intellectual life in such fields as mathematics, astronomy, architecture, literature, music, and the fine arts.
-Taj Mahal
-Taj Mahal
-Jaisalmer, Rajasthan, India: fort
-Jaisalmer, Rajasthan, India: fort
-Throughout its history, India was intermittently disturbed by incursions from beyond its northern mountain wall. Especially important was the coming of Islam, brought from the northwest by Arab, Turkish, Persian, and other raiders beginning early in the 8th century ce. Eventually, some of those raiders stayed; by the 13th century much of the subcontinent was under Muslim rule, and the number of Muslims steadily increased. Only after the arrival of the Portuguese navigator Vasco da Gama in 1498 and the subsequent establishment of European maritime supremacy in the region did India become exposed to major external influences arriving by sea, a process that culminated in the decline of the ruling Muslim elite and absorption of the subcontinent within the British Empire.
-        </item>
-        <item>Israel, Arabic Isrāʾīl, officially State of Israel or Hebrew Medinat Yisraʾel, country in the Middle East, located at the eastern end of the Mediterranean Sea. It is bounded to the north by Lebanon, to the northeast by Syria, to the east and southeast by Jordan, to the southwest by Egypt, and to the west by the Mediterranean Sea. Jerusalem is the seat of government and the proclaimed capital, although the latter status has not received wide international recognition.
-Israel
+    </string-array>
+    <string-array name="count_details2">
 
+        <item>
+            India, country that occupies the greater part of South Asia. Its capital is New Delhi, built in the 20th century just south of the historic hub of Old Delhi to serve as India’s administrative centre. Its government is a constitutional republic that represents a highly diverse population consisting of thousands of ethnic groups and likely hundreds of languages. With roughly one-sixth of the world’s total population, India is the second most populous country, after China. \n \n
+
+It is known from archaeological evidence that a highly sophisticated urbanized culture—the Indus civilization—dominated the northwestern part of the subcontinent from about 2600 to 2000 bce. From that period on, India functioned as a virtually self-contained political and cultural arena, which gave rise to a distinctive tradition that was associated primarily with Hinduism, the roots of which can largely be traced to the Indus civilization. Other religions, notably Buddhism and Jainism, originated in India—though their presence there is now quite small—and throughout the centuries residents of the subcontinent developed a rich intellectual life in such fields as mathematics, astronomy, architecture, literature, music, and the fine arts. \n \n
+
+Throughout its history, India was intermittently disturbed by incursions from beyond its northern mountain wall. Especially important was the coming of Islam, brought from the northwest by Arab, Turkish, Persian, and other raiders beginning early in the 8th century ce. Eventually, some of those raiders stayed; by the 13th century much of the subcontinent was under Muslim rule, and the number of Muslims steadily increased. Only after the arrival of the Portuguese navigator Vasco da Gama in 1498 and the subsequent establishment of European maritime supremacy in the region did India become exposed to major external influences arriving by sea, a process that culminated in the decline of the ruling Muslim elite and absorption of the subcontinent within the British Empire. \n \n
+
+Direct administration by the British, which began in 1858, effected a political and economic unification of the subcontinent. When British rule came to an end in 1947, the subcontinent was partitioned along religious lines into two separate countries—India, with a majority of Hindus, and Pakistan, with a majority of Muslims; the eastern portion of Pakistan later split off to form Bangladesh. Many British institutions stayed in place (such as the parliamentary system of government); English continued to be a widely used lingua franca; and India remained within the Commonwealth. Hindi became the official language (and a number of other local languages achieved official status), while a vibrant English-language intelligentsia thrived. \n \n
+
+India remains one of the most ethnically diverse countries in the world. Apart from its many religions and sects, India is home to innumerable castes and tribes, as well as to more than a dozen major and hundreds of minor linguistic groups from several language families unrelated to one another. Religious minorities, including Muslims, Christians, Sikhs, Buddhists, and Jains, still account for a significant proportion of the population; collectively, their numbers exceed the populations of all countries except China. Earnest attempts have been made to instill a spirit of nationhood in so varied a population, but tensions between neighbouring groups have remained and at times have resulted in outbreaks of violence. Yet social legislation has done much to alleviate the disabilities previously suffered by formerly “untouchable” castes, tribal populations, women, and other traditionally disadvantaged segments of society. At independence, India was blessed with several leaders of world stature, most notably Mohandas (Mahatma) Gandhi and Jawaharlal Nehru, who were able to galvanize the masses at home and bring prestige to India abroad. The country has played an increasing role in global affairs. \n \n
+
+Contemporary India’s increasing physical prosperity and cultural dynamism—despite continued domestic challenges and economic inequality—are seen in its well-developed infrastructure and a highly diversified industrial base, in its pool of scientific and engineering personnel (one of the largest in the world), in the pace of its agricultural expansion, and in its rich and vibrant cultural exports of music, literature, and cinema. Though the country’s population remains largely rural, India has three of the most populous and cosmopolitan cities in the world—Mumbai (Bombay), Kolkata (Calcutta), and Delhi. Three other Indian cities—Bengaluru (Bangalore), Chennai (Madras), and Hyderabad—are among the world’s fastest-growing high-technology centres, and most of the world’s major information technology and software companies now have offices in India. \n \n
         </item>
-        <item>Italy, country of south-central Europe, occupying a peninsula that juts deep into the Mediterranean Sea. Italy comprises some of the most varied and scenic landscapes on Earth and is often described as a country shaped like a boot. At its broad top stand the Alps, which are among the world’s most rugged mountains. Italy’s highest points are along Monte Rosa, which peaks in Switzerland, and along Mont Blanc, which peaks in France. The western Alps overlook a landscape of Alpine lakes and glacier-carved valleys that stretch down to the Po River and the Piedmont. Tuscany, to the south of the cisalpine region, is perhaps the country’s best-known region. From the central Alps, running down the length of the country, radiates the tall Apennine Range, which widens near Rome to cover nearly the entire width of the Italian peninsula. South of Rome the Apennines narrow and are flanked by two wide coastal plains, one facing the Tyrrhenian Sea and the other the Adriatic Sea. Much of the lower Apennine chain is near-wilderness, hosting a wide range of species rarely seen elsewhere in western Europe, such as wild boars, wolves, asps, and bears. The southern Apennines are also tectonically unstable, with several active volcanoes, including Vesuvius, which from time to time belches ash and steam into the air above Naples and its island-strewn bay. At the bottom of the country, in the Mediterranean Sea, lie the islands of Sicily and Sardinia.
+        <item>
+            Israel, Arabic Isrāʾīl, officially State of Israel or Hebrew Medinat Yisraʾel, country in the Middle East, located at the eastern end of the Mediterranean Sea. It is bounded to the north by Lebanon, to the northeast by Syria, to the east and southeast by Jordan, to the southwest by Egypt, and to the west by the Mediterranean Sea. Jerusalem is the seat of government and the proclaimed capital, although the latter status has not received wide international recognition.\n \n
+
+Israel is a small country with a relatively diverse topography, consisting of a lengthy coastal plain, highlands in the north and central regions, and the Negev desert in the south. Running the length of the country from north to south along its eastern border is the northern terminus of the Great Rift Valley. \n \n
+
+The State of Israel is the only Jewish nation in the modern period, and the region that now falls within its borders has a lengthy and rich history that dates from prebiblical times. The area was a part of the Roman Empire and, later, the Byzantine Empire before falling under the control of the fledgling Islamic caliphate in the 7th century ce. Although the object of dispute during the Crusades, the region, then generally known as Palestine, remained under the sway of successive Islamic dynasties until the collapse of the Ottoman Empire at the end of World War I, when it was placed under British mandate from the League of Nations. \n \n
+
+Even before the mandate, the desire for a Jewish homeland prompted a small number of Jews to immigrate to Palestine, a migration that grew dramatically during the second quarter of the 20th century with the increased persecution of Jews worldwide and subsequent Holocaust perpetrated by Nazi Germany. This vast influx of Jewish immigrants into the region, however, caused tension with the native Palestinian Arabs, and violence flared between the two groups leading up to the United Nations plan to partition Palestine into Jewish and Arab sectors and Israel’s ensuing declaration of statehood on May 14, 1948. \n \n
+
+Israel fought a series of wars against neighbouring Arab states during the next 35 years, which have resulted in ongoing disputes over territory and the status of refugees. Despite continuing tensions, however, Israel concluded peace treaties with several neighbouring Arab states during the final quarter of the 20th century. \n \n
         </item>
-        <item>Jamaica is in North America</item>
-        <item>Japan is in Asia</item>
-        <item>Morocco is in Africa</item>
-        <item>South Korea is in Asia</item>
-        <item>United Kingdom is in Europe</item>
-        <item>United States of America is in North America</item>
+        <item>
+            Italy, country of south-central Europe, occupying a peninsula that juts deep into the Mediterranean Sea. Italy comprises some of the most varied and scenic landscapes on Earth and is often described as a country shaped like a boot. At its broad top stand the Alps, which are among the world’s most rugged mountains. Italy’s highest points are along Monte Rosa, which peaks in Switzerland, and along Mont Blanc, which peaks in France. The western Alps overlook a landscape of Alpine lakes and glacier-carved valleys that stretch down to the Po River and the Piedmont. Tuscany, to the south of the cisalpine region, is perhaps the country’s best-known region. From the central Alps, running down the length of the country, radiates the tall Apennine Range, which widens near Rome to cover nearly the entire width of the Italian peninsula. South of Rome the Apennines narrow and are flanked by two wide coastal plains, one facing the Tyrrhenian Sea and the other the Adriatic Sea. Much of the lower Apennine chain is near-wilderness, hosting a wide range of species rarely seen elsewhere in western Europe, such as wild boars, wolves, asps, and bears. The southern Apennines are also tectonically unstable, with several active volcanoes, including Vesuvius, which from time to time belches ash and steam into the air above Naples and its island-strewn bay. At the bottom of the country, in the Mediterranean Sea, lie the islands of Sicily and Sardinia. \n \n
+
+Italy’s political geography has been conditioned by this rugged landscape. With few direct roads between them, and with passage from one point to another traditionally difficult, Italy’s towns and cities have a history of self-sufficiency, independence, and mutual mistrust. Visitors today remark on how unlike one town is from the next, on the marked differences in cuisine and dialect, and on the many subtle divergences that make Italy seem less a single nation than a collection of culturally related points in an uncommonly pleasing setting. \n \n
+
+Across a span of more than 3,000 years, Italian history has been marked by episodes of temporary unification and long separation, of intercommunal strife and failed empires. At peace for more than half a century now, Italy’s inhabitants enjoy a high standard of living and a highly developed culture. \n \n
+
+Though its archaeological record stretches back tens of thousands of years, Italian history begins with the Etruscans, an ancient civilization that rose between the Arno and Tiber rivers. The Etruscans were supplanted in the 3rd century bce by the Romans, who soon became the chief power in the Mediterranean world and whose empire stretched from India to Scotland by the 2nd century ce. That empire was rarely secure, not only because of the unwillingness of conquered peoples to stay conquered but also because of power struggles between competing Roman political factions, military leaders, families, ethnic groups, and religions. The Roman Empire fell in the 5th century ce after a succession of barbarian invasions through which Huns, Lombards, Ostrogoths, and Franks—mostly previous subjects of Rome—seized portions of Italy. Rule devolved to the level of the city-state, although the Normans succeeded in establishing a modest empire in southern Italy and Sicily in the 11th century. Many of those city-states flourished during the Renaissance era, a time marked by significant intellectual, artistic, and technological advances but also by savage warfare between states loyal to the pope and those loyal to the Holy Roman Empire. \n \n
+
+Italian unification came in the 19th century, when a liberal revolution installed Victor Emmanuel II as king. In World War I, Italy fought on the side of the Allies, but, under the rule of the fascist leader Benito Mussolini, it waged war against the Allied powers in World War II. From the end of World War II to the early 1990s, Italy had a multiparty system dominated by two large parties: the Christian Democratic Party (Partito della Democrazia Cristiana; DC) and the Italian Communist Party (Partito Comunista Italiano; PCI). In the early 1990s the Italian party system underwent a radical transformation, and the political centre collapsed, leaving a right-left polarization of the party spectrum that threw the north-south divide into sharper contrast and gave rise to such political leaders as media magnate Silvio Berlusconi. \n \n
+
+The whole country is relatively prosperous, certainly as compared with the early years of the 20th century, when the economy was predominantly agricultural. Much of that prosperity has to do with tourism, for in good years nearly as many visitors as citizens can be found in the country. Italy is part of the European Union and the Council of Europe, and, with its strategic geographic position on the southern flank of Europe, it has played a fairly important role in the North Atlantic Treaty Organization (NATO). \n \n
+
+The capital is Rome, one of the oldest of the world’s great cities and a favourite of visitors, who go there to see its great monuments and works of art as well as to enjoy the city’s famed dolce vita, or "sweet life." Other major cities include the industrial and fashion centre of Milan; Genoa, a handsome port on the Ligurian Gulf; the sprawling southern metropolis of Naples; and Venice, one of the world’s oldest tourist destinations. Surrounded by Rome is an independent state, Vatican City, which is the seat of the Roman Catholic Church and the spiritual home of Italy’s overwhelmingly Catholic population. Each of those cities, and countless smaller cities and towns, has retained its differences against the leveling effect of the mass media and standardized education. Thus, many Italians, particularly older ones, are inclined to think of themselves as belonging to families, then neighbourhoods, then towns or cities, then regions, and then, last, as members of a nation. \n \n
+
+The intellectual and moral faculties of humankind have found a welcome home in Italy, one of the world’s most important centres of religion, visual arts, literature, music, philosophy, culinary arts, and sciences. Michelangelo, the painter and sculptor, believed that his work was to free an already existing image; Giuseppe Verdi heard the voices of the ancients and of angels in music that came to him in his dreams; Dante forged a new language with his incomparable poems of heaven, hell, and the world between. Those and many other Italian artists, writers, designers, musicians, chefs, actors, and filmmakers have brought extraordinary gifts to the world. \n \n
+
+This article treats the physical and human geography and history of Italy. For discussion of Classical history, see the articles ancient Italic people and ancient Rome. \n \n
+        </item>
+        <item>
+            Jamaica, a Caribbean island nation, has a lush topography of mountains, rainforests and reef-lined beaches.
+        </item>
+        <item>
+            Japan is an island country in East Asia. It is situated in the northwest Pacific Ocean.
+        </item>
+        <item>
+            Morocco, a North African country bordering the Atlantic Ocean and Mediterranean Sea, is distinguished by its Berber, Arabian and European cultural influences.
+        </item>
+        <item>
+            South Korea, an East Asian nation on the southern half of the Korean Peninsula, shares one of the world’s most heavily militarized borders with North Korea.
+        </item>
+        <item>
+            The United Kingdom, made up of England, Scotland, Wales and Northern Ireland, is an island nation in northwestern Europe.
+        </item>
+        <item>
+            The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean.
+        </item>
 
     </string-array>
 </resources>
